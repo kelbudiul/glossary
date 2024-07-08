@@ -155,7 +155,7 @@ To conclude our exploration of the mathematics of distributed computing, let's c
 
 Leslie Lamport, a Turing Award winner known for his seminal work in distributed systems, once said:
 
-"A distributed system is one in which the failure of a computer you didn't even know existed can render your own computer unusable."
+> "A distributed system is one in which the failure of a computer you didn't even know existed can render your own computer unusable."
 
 This humorous yet insightful observation highlights the complex interdependencies in distributed systems and underscores the importance of the mathematical foundations we've discussed. It reminds us that:
 
