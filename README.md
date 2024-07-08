@@ -23,7 +23,7 @@ Currently, this repository covers the following topics:
 (More topics will be added over time)
 
 ## Structure
-Each topic is contained in its own directory, which includes:
+Each topic is contained in its own directory or in form of single file if possible, which includes:
 - A main markdown file with the detailed explanation
 - Code examples (if applicable)
 - Additional resources or related topics
