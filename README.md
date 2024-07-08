@@ -37,4 +37,12 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 ## Contact
 If you have any questions or suggestions, please open an issue in this repository.
 
+## A Final Thought
+
+As we delve into these fundamental concepts, it's worth remembering a humorous anecdote shared by Barbara Liskov in her ACM Turing Award lecture:
+
+> "When I received the Turing Award, there was a joke circulating on the internet: 'Why is she getting an award for something everybody knows?'"
+
+This quip reminds us that while these principles might seem obvious in retrospect, their formulation and widespread adoption have profoundly shaped the field of software development. It's our hope that this repository helps illuminate these "obvious" yet crucial concepts for developers at all stages of their journey.
+
 Happy learning and coding!
