@@ -1,7 +1,7 @@
 # Programming Concepts Refined
 
 ## Description
-This repository serves as a comprehensive collection of in-depth articles and explanations on various programming concepts, design principles, and best practices. It aims to provide clear, concise, and practical insights into complex topics in software development.
+This repository serves as a collection of articles and explanations on various programming concepts, design principles, and best practices. It aims to provide clear, concise, and practical insights into complex topics in software development.
 
 ## Purpose
 The goal of this repository is to:
